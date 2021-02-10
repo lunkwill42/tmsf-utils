@@ -1,4 +1,4 @@
-# Små verktøy for Trønderns Mandssangforening
+# Små verktøy for Trøndernes Mandssangforening
 
 Her er det ikke så mye enda, men foreløpig bare et hjelpeprogram for å sende
 epost til hver av de fire stemmegruppene i koret.
@@ -6,7 +6,7 @@ epost til hver av de fire stemmegruppene i koret.
 ## Installajon
 
 ```sh
-python3 -m pip install .
+python3 -m pip install git+https://github.com/lunkwill42/tmsf-utils.git
 ```
 
 ## Bruk
