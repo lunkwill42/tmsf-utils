@@ -5,6 +5,8 @@ epost til hver av de fire stemmegruppene i koret.
 
 ## Installajon
 
+Dette krever at du har Python 3 installert. Fra kommandolinjen kjører du:
+
 ```sh
 python3 -m pip install git+https://github.com/lunkwill42/tmsf-utils.git
 ```
